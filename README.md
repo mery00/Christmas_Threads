@@ -1,7 +1,8 @@
 # Christmas_Threads
 This university project is based on the stm32f3discovery board.
 
-##Overview
+## Overview
+
 This project was made for the class of Embedded Systems. The official material of the class was the STM32F3discovery and the real time operative system ChibiOS. You can find information on the board at [this link](https://www.st.com/en/evaluation-tools/stm32f3discovery.html) and on the RTOS at [this link](http://chibios.org/dokuwiki/doku.php). 
 For this project you need ChibiStudio software correctly installed (You can download it at [this link](http://chibios.org/dokuwiki/doku.php?id=chibios:product:chibistudio:start).
 
